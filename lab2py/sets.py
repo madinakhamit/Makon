@@ -1,1 +1,0 @@
-myset = {"apple", "banana", "cherry"}
